@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Avelino Almeida
+# 👨‍💻 Avelino Almeida
 
 **`Analista de Dados`**
 
@@ -30,5 +30,65 @@ Olá, sou o Avelino Almeida, natural de Penafiel, no distrito do Porto. Sou lice
       src="https://custom-icon-badges.demolab.com/badge/Instagram-avelino__almeida-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
+
+### 🖥️ Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Microsoft SQL Server"
+    title="Microsoft SQL Server"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python"
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PowerShell"
+    title="PowerShell (representando scripting/automação)"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML5"
+    title="HTML5" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS3" 
+    title="CSS3"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+/>
+
+<br>
+<br>
+
+>
+### 📊 Estatísticas
+
+![Avelino_Almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=AvelinoAlmeida&show_icons=true) 
 
 

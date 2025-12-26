@@ -60,6 +60,30 @@ Olá, sou o Avelino Almeida, natural de Penafiel, no distrito do Porto. Sou lice
 />
 <img 
     align="left" 
+    alt="Pandas"
+    title="Pandas"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="R"
+    title="R"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Gradle"
+    title="Gradle"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -84,6 +108,7 @@ Olá, sou o Avelino Almeida, natural de Penafiel, no distrito do Porto. Sou lice
 />
 
 
+
 <br>
 <p>
 <br>
@@ -92,4 +117,4 @@ Olá, sou o Avelino Almeida, natural de Penafiel, no distrito do Porto. Sou lice
 
 ### 📊 Estatísticas
 
-![Avelino GitHub stats](https://github-readme-stats.vercel.app/api?username=AvelinoAlmeida&show_icons=true)
+![Avelino GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)

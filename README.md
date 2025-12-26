@@ -89,6 +89,5 @@ Olá, sou o Avelino Almeida, natural de Penafiel, no distrito do Porto. Sou lice
 >
 ### 📊 Estatísticas
 
-![Avelino_Almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=AvelinoAlmeida&show_icons=true) 
 
 

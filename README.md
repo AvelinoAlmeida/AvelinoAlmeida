@@ -36,6 +36,14 @@ Olá, sou o Avelino Almeida, natural de Penafiel, no distrito do Porto. Sou lice
 
 <img 
     align="left" 
+    alt="Azure SQL Database"
+    title="Azure SQL Database"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Microsoft SQL Server"
     title="Microsoft SQL Server"
     width="30px" 
@@ -49,14 +57,6 @@ Olá, sou o Avelino Almeida, natural de Penafiel, no distrito do Porto. Sou lice
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PowerShell"
-    title="PowerShell (representando scripting/automação)"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" 
 />
 <img 
     align="left" 
@@ -83,11 +83,13 @@ Olá, sou o Avelino Almeida, natural de Penafiel, no distrito do Porto. Sou lice
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
 />
 
+
 <br>
+<p>
 <br>
 
->
+---
+
 ### 📊 Estatísticas
 
-
-
+![Avelino GitHub stats](https://github-readme-stats.vercel.app/api?username=AvelinoAlmeida&show_icons=true)

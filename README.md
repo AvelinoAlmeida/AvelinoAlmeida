@@ -2,7 +2,7 @@
 
 **Consultor DBA | Microsoft SQL Server · Azure SQL · BI e ETL**
 
-Sou de Penafiel. Trabalho como Consultor DBA na eSPap, numa equipa que administra cerca de 100 instâncias SQL Server (2008 a 2025), on-premises e em Azure, incluindo servidores dedicados SSIS, SSAS e SSRS.
+Sou de Penafiel. Trabalho como Consultor DBA na eSPap, numa equipa que administra instâncias SQL Server (2008 a 2025), on-premises e em Azure, incluindo servidores dedicados SSIS, SSAS e SSRS.
 
 Licenciado em Sistemas de Informação para a Gestão e mestrando em Engenharia Informática na ESTG. Formador certificado (CCP) em Sistemas, Bases de Dados e Redes desde 2021.
 
